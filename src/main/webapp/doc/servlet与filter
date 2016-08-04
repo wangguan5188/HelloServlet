@@ -1,0 +1,4 @@
+
+1、Servlet 能做的 Filter 是否都可以完成 ? 嗯。
+2、Filter 能做的 Servlet 都可以完成吗 ? 拦截资源却不是 Servlet 所擅长的! 
+	Filter 中有一个 FilterChain，这个 API 在 Servlet 中没有！
